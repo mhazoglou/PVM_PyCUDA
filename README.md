@@ -9,9 +9,13 @@ After installing the dependencies go through the jupyter notebook Quick_Start_Tu
 ### Prerequisites
 
 CUDA 8 (Future versions may support CUDA 9 and 10) 
+
 PyCUDA
+
 OpenCV
+
 NumPy
+
 MatPlotLib
 
 ### Installing
