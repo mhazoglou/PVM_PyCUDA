@@ -1,6 +1,9 @@
 # ignore pickle files
 *.pkl
 
+# ignore pyc files
+*.pyc
+
 # ignore numpy saved arrays
 *.npz
 
