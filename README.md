@@ -4,7 +4,7 @@ An CUDA based optimization of the Predictive Vision Model by Piekniewski et. al.
 
 ## Getting Started
 
-After installing the dependencies 
+After installing the dependencies go through the jupyter notebook Quick_Start_Tutorial_PVM.ipynb to download data and train your first PVM. 
 
 ### Prerequisites
 
