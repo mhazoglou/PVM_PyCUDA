@@ -1,0 +1,15 @@
+# ignore pickle files
+*.pkl
+
+# ignore numpy saved arrays
+*.npz
+
+# ignore pdfs
+*.pdf
+
+# ignore mp4
+*.mp4
+
+nvprofile.py
+AnimatingImages.ipynb
+ModifiedAutoencoder.ipynb

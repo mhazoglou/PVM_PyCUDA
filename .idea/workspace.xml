@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdc8a7cf-0b16-4f7f-8946-c2f65dcbf1d0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/MotionAndVisionIntegration-CopyBasePVMforControl-Copy2-Copy1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/NoiseCharacterisization-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/StreamToPVM-Copy3-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/StreamToPVM-Copy3-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Argument_Max_on_GPU.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Argument_Min_on_GPU.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autoencoder_tests.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Break_Stuff.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Can_the_PVM_learn_dynamics.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlSaccadicPVM_test_run.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figuring_out_cv2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlatteningWithMappingInsteadOfAFunction.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoveatedFractalSaccadicPVM_test_run.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageArrayCropping.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageEntropy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MotionAndVisionIntegration-Copy1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MotionAndVisionIntegration-CopyBasePVMforControl-Copy1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MotionAndVisionIntegration-CopyBasePVMforControl-Copy2-Copy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MotionAndVisionIntegration-CopyBasePVMforControl-Copy2-Copy1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MotionAndVisionIntegration-CopyBasePVMforControl-Copy2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MotionAndVisionIntegration-CopyBasePVMforControl-Copy3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MotionAndVisionIntegration-CopyBasePVMforControl-Copy4.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MotionAndVisionIntegration-CopyBasePVMforControl-Copy5.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MotionAndVisionIntegration-CopyBasePVMforControl.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MotionAndVisionIntegration.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeumannRBP_kernels.cu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NoiseCharacterisization.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PVM_PyCUDA.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PVM_PyCUDA.py" beforeDir="false" afterPath="$PROJECT_DIR$/PVM_PyCUDA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PVM_PyCUDA_Test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quick_Start_Tutorial_PVM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quick_Start_Tutorial_PVM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecurrentBackPropagation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoteSystemsTempFiles/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saccade_Trace_Test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaccadesJustUsingError.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaccadicPVM_compare_fovea_to_two controls_without_fovea-Copy_64_by_64_input.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaccadicPVM_compare_fovea_to_two controls_without_fovea.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaccadicPVM_test_run-Copy1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaccadicPVM_test_run-Copy2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaccadicPVM_test_run.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamToPVM-Copy1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamToPVM-Copy2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamToPVM-Copy3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamToPVM.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDenseMatVecDot.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestSparseOperations.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Windowed_Sum.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_cv.py" beforeDir="false" afterPath="$PROJECT_DIR$/client_cv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive_flatten.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_cv.py" beforeDir="false" afterPath="$PROJECT_DIR$/server_cv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testConv2d.ipynb" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.49064672">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/adam_kernels.cu">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="294">
+                  <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/RectangularGridConstructor.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3864">
+                  <caret line="278" column="29" selection-start-line="278" selection-start-column="29" selection-end-line="278" selection-end-column="29" />
+                  <folding>
+                    <element signature="e#0#64#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/FractalConstructor.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2380">
+                  <caret line="641" column="28" selection-start-line="641" selection-start-column="28" selection-end-line="641" selection-end-column="28" />
+                  <folding>
+                    <element signature="e#0#64#0" expanded="true" />
+                    <element signature="e#223#17364#0" />
+                    <element signature="e#17417#20055#0" />
+                    <element signature="e#20107#26277#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/panTiltDataCollector.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2674">
+                  <caret line="197" column="41" selection-start-line="197" selection-start-column="41" selection-end-line="197" selection-end-column="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/FormattingFiles.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="9856">
+                  <caret line="712" column="28" selection-start-line="712" selection-start-column="28" selection-end-line="712" selection-end-column="28" />
+                  <folding>
+                    <element signature="e#0#64#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/WeightsAndBiasInitialization.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2828">
+                  <caret line="206" column="54" selection-start-line="206" selection-start-column="54" selection-end-line="206" selection-end-column="54" />
+                  <folding>
+                    <element signature="e#0#64#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/server_cv.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="742">
+                  <caret line="62" column="57" selection-start-line="61" selection-start-column="8" selection-end-line="62" selection-end-column="57" />
+                  <folding>
+                    <element signature="e#0#13#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/PVM_PyCUDA.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="588">
+                  <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+                  <folding>
+                    <element signature="e#0#64#0" expanded="true" />
+                    <element signature="e#6767#7997#0" />
+                    <element signature="e#8023#8111#0" />
+                    <element signature="e#8160#8252#0" />
+                    <element signature="e#8308#8940#0" />
+                    <element signature="e#8987#15055#0" />
+                    <element signature="e#21713#26061#0" />
+                    <element signature="e#47089#48982#0" />
+                    <element signature="e#49044#50384#0" />
+                    <element signature="e#50518#58263#0" />
+                    <element signature="e#58294#82074#0" />
+                    <element signature="e#58294#62629#1" />
+                    <element signature="e#62768#70428#0" />
+                    <element signature="e#70466#72474#0" />
+                    <element signature="e#72521#72712#0" />
+                    <element signature="e#72819#73164#0" />
+                    <element signature="e#73356#75824#0" />
+                    <element signature="e#76072#80309#0" />
+                    <element signature="e#80360#80892#0" />
+                    <element signature="e#80943#81944#0" />
+                    <element signature="e#82110#106121#0" />
+                    <element signature="e#54694#55104#0" />
+                    <element signature="e#85666#86267#0" />
+                    <element signature="e#86337#88220#0" />
+                    <element signature="e#88327#88945#0" />
+                    <element signature="e#89212#93604#0" />
+                    <element signature="e#94172#95949#0" />
+                    <element signature="e#96030#97941#0" />
+                    <element signature="e#108195#131959#0" />
+                    <element signature="e#108408#111557#0" />
+                    <element signature="e#111594#112313#0" />
+                    <element signature="e#112360#113824#0" />
+                    <element signature="e#113941#123566#0" />
+                    <element signature="e#123743#126050#0" />
+                    <element signature="e#126126#126734#0" />
+                    <element signature="e#126911#129778#0" />
+                    <element signature="e#129829#130601#0" />
+                    <element signature="e#130652#131959#0" />
+                    <element signature="e#132004#144097#0" />
+                    <element signature="e#132333#135506#0" />
+                    <element signature="e#135561#135804#0" />
+                    <element signature="e#138210#139166#0" />
+                    <element signature="e#139231#141552#0" />
+                    <element signature="e#144174#150029#0" />
+                    <element signature="e#146671#147158#0" />
+                    <element signature="e#150075#162243#0" />
+                    <element signature="e#152915#153141#0" />
+                    <element signature="e#153201#154279#0" />
+                    <element signature="e#160242#162243#0" />
+                    <element signature="e#162291#189019#0" />
+                    <element signature="e#162505#163617#0" />
+                    <element signature="e#173104#173703#0" />
+                    <element signature="e#173758#174802#0" />
+                    <element signature="e#174853#176013#0" />
+                    <element signature="e#176205#178737#0" />
+                    <element signature="e#189076#210925#0" />
+                    <element signature="e#189275#189898#0" />
+                    <element signature="e#189962#191511#0" />
+                    <element signature="e#191635#192122#0" />
+                    <element signature="e#192314#194911#0" />
+                    <element signature="e#195163#200009#0" />
+                    <element signature="e#200090#202345#0" />
+                    <element signature="e#202394#204959#0" />
+                    <element signature="e#205359#210925#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/train_motion_integration_models.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="28">
+                  <caret line="7" column="86" selection-start-line="7" selection-start-column="86" selection-end-line="7" selection-end-column="86" />
+                  <folding>
+                    <element signature="e#0#18#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/PVM_PyCUDA.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="706">
+                  <caret line="2567" column="26" selection-start-line="2567" selection-start-column="26" selection-end-line="2567" selection-end-column="26" />
+                  <folding>
+                    <element signature="e#0#64#0" expanded="true" />
+                    <element signature="e#6767#7997#0" />
+                    <element signature="e#8023#8111#0" />
+                    <element signature="e#8160#8252#0" />
+                    <element signature="e#8308#8940#0" />
+                    <element signature="e#8987#15055#0" />
+                    <element signature="e#21713#26061#0" />
+                    <element signature="e#47089#48982#0" />
+                    <element signature="e#49044#50384#0" />
+                    <element signature="e#50518#58263#0" />
+                    <element signature="e#58294#82074#0" />
+                    <element signature="e#58294#62629#1" />
+                    <element signature="e#62768#70428#0" />
+                    <element signature="e#70466#72474#0" />
+                    <element signature="e#72521#72712#0" />
+                    <element signature="e#72819#73164#0" />
+                    <element signature="e#73356#75824#0" />
+                    <element signature="e#76072#80309#0" />
+                    <element signature="e#80360#80892#0" />
+                    <element signature="e#80943#81944#0" />
+                    <element signature="e#82110#106121#0" />
+                    <element signature="e#85666#86267#0" />
+                    <element signature="e#86337#88220#0" />
+                    <element signature="e#88327#88945#0" />
+                    <element signature="e#89212#93604#0" />
+                    <element signature="e#94172#95949#0" />
+                    <element signature="e#96030#97941#0" />
+                    <element signature="e#108195#131959#0" />
+                    <element signature="e#108408#111557#0" />
+                    <element signature="e#111594#112313#0" />
+                    <element signature="e#112360#113824#0" />
+                    <element signature="e#113941#123566#0" />
+                    <element signature="e#123743#126050#0" />
+                    <element signature="e#126126#126734#0" />
+                    <element signature="e#126911#129778#0" />
+                    <element signature="e#129829#130601#0" />
+                    <element signature="e#130652#131959#0" />
+                    <element signature="e#132004#144097#0" />
+                    <element signature="e#135561#135804#0" />
+                    <element signature="e#135851#138178#0" />
+                    <element signature="e#138210#139166#0" />
+                    <element signature="e#139231#141552#0" />
+                    <element signature="e#141688#144097#0" />
+                    <element signature="e#144848#146547#0" />
+                    <element signature="e#146671#147158#0" />
+                    <element signature="e#150075#162243#0" />
+                    <element signature="e#150337#152860#0" />
+                    <element signature="e#152915#153141#0" />
+                    <element signature="e#153201#154279#0" />
+                    <element signature="e#154326#157131#0" />
+                    <element signature="e#157238#158050#0" />
+                    <element signature="e#158242#160161#0" />
+                    <element signature="e#160242#162243#0" />
+                    <element signature="e#162291#189019#0" />
+                    <element signature="e#163670#171179#0" />
+                    <element signature="e#171309#173053#0" />
+                    <element signature="e#173104#173703#0" />
+                    <element signature="e#173758#174802#0" />
+                    <element signature="e#174853#176013#0" />
+                    <element signature="e#176205#178737#0" />
+                    <element signature="e#178985#186751#0" />
+                    <element signature="e#186832#189019#0" />
+                    <element signature="e#189076#210925#0" />
+                    <element signature="e#189962#191511#0" />
+                    <element signature="e#191635#192122#0" />
+                    <element signature="e#192314#194911#0" />
+                    <element signature="e#195163#200009#0" />
+                    <element signature="e#200090#202345#0" />
+                    <element signature="e#202394#204959#0" />
+                    <element signature="e#205359#210925#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/train_on_the_fly_models.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="350">
+                  <caret line="30" selection-start-line="30" selection-end-line="30" />
+                  <folding>
+                    <element signature="e#0#18#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/train_foveated_on_the_fly_models.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1050">
+                  <caret line="80" column="134" selection-start-line="80" selection-start-column="37" selection-end-line="80" selection-end-column="134" />
+                  <folding>
+                    <element signature="e#0#18#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/client_cv.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <folding>
+                    <element signature="e#0#16#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/train_foveated_motion_integration_models.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1134">
+                  <caret line="86" column="138" selection-start-line="85" selection-start-column="41" selection-end-line="86" selection-end-column="138" />
+                  <folding>
+                    <element signature="e#0#18#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Unit_count</find>
+      <find>per_dict</find>
+      <find>hidden_inputs</find>
+      <find>max_x</find>
+      <find>cv2</find>
+      <find>sig</find>
+      <find>input_map</find>
+      <find>L_pred</find>
+      <find>x</find>
+      <find>print</find>
+      <find>rev_</find>
+      <find>cv</find>
+      <find>sys</find>
+      <find>base_pvm_gpu_recurrent_backprop</find>
+      <find>a_prime_i2h</find>
+      <find>np.float64</find>
+      <find>self.dL_future_d_err</find>
+      <find>let</find>
+      <find>self.ideal_pred</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>par_dict</replace>
+      <replace>base_pvm_gpu_forward</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Formatting_PVM_Data.ipynb" />
+        <option value="$PROJECT_DIR$/Autoencoder.py" />
+        <option value="$PROJECT_DIR$/FractalConstructor.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/RectangularGridConstructor.py" />
+        <option value="$PROJECT_DIR$/client_cv.py" />
+        <option value="$PROJECT_DIR$/Useful_Kernels.cu" />
+        <option value="$PROJECT_DIR$/NeumannRBP_kernels.cu" />
+        <option value="$PROJECT_DIR$/panTiltDataCollector.py" />
+        <option value="$PROJECT_DIR$/WeightsAndBiasInitialization.py" />
+        <option value="$PROJECT_DIR$/adam.cu" />
+        <option value="$PROJECT_DIR$/adam_kernels.cu" />
+        <option value="$PROJECT_DIR$/FormattingFiles.py" />
+        <option value="$PROJECT_DIR$/train_on_the_fly_models.py" />
+        <option value="$PROJECT_DIR$/train_motion_integration_models.py" />
+        <option value="$PROJECT_DIR$/server_cv.py" />
+        <option value="$PROJECT_DIR$/train_foveated_on_the_fly_models.py" />
+        <option value="$PROJECT_DIR$/train_foveated_motion_integration_models.py" />
+        <option value="$PROJECT_DIR$/PVM_PyCUDA.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="430" />
+    <option name="y" value="18" />
+    <option name="width" value="889" />
+    <option name="height" value="956" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client_cv.py" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.RectangularGridConstructor">
+    <configuration name="FormattingFiles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PVM_PyCUDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FormattingFiles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PVM_PyCUDA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PVM_PyCUDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PVM_PyCUDA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RectangularGridConstructor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PVM_PyCUDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RectangularGridConstructor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WeightsAndBiasInitialization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PVM_PyCUDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WeightsAndBiasInitialization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.FormattingFiles" />
+      <item itemvalue="Python.PVM_PyCUDA" />
+      <item itemvalue="Python.RectangularGridConstructor" />
+      <item itemvalue="Python.WeightsAndBiasInitialization" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.RectangularGridConstructor" />
+        <item itemvalue="Python.FormattingFiles" />
+        <item itemvalue="Python.PVM_PyCUDA" />
+        <item itemvalue="Python.WeightsAndBiasInitialization" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdc8a7cf-0b16-4f7f-8946-c2f65dcbf1d0" name="Default" comment="" />
+      <created>1507847332911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507847332911</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="48" y="-10" width="1873" height="1091" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.24959914" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.10357143" side_tool="true" weight="0.39977974" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3296582" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.09140969" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.8964286" weight="0.39977974" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Download_PVM_Videos.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Saccadic_kernels.cu">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoencoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6258">
+          <caret line="451" column="60" selection-start-line="451" selection-start-column="60" selection-end-line="451" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A2C_MsPacman" />
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracker_kernels.cu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1162">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Useful_Kernels.cu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="157" column="39" selection-start-line="157" selection-start-column="39" selection-end-line="157" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adam_kernels.cu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RectangularGridConstructor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3864">
+          <caret line="278" column="29" selection-start-line="278" selection-start-column="29" selection-end-line="278" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FractalConstructor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="641" column="28" selection-start-line="641" selection-start-column="28" selection-end-line="641" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#223#17364#0" />
+            <element signature="e#17417#20055#0" />
+            <element signature="e#20107#26277#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panTiltDataCollector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2674">
+          <caret line="197" column="41" selection-start-line="197" selection-start-column="41" selection-end-line="197" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeumannRBP_kernels.cu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FormattingFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9856">
+          <caret line="712" column="28" selection-start-line="712" selection-start-column="28" selection-end-line="712" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeightsAndBiasInitialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2828">
+          <caret line="206" column="54" selection-start-line="206" selection-start-column="54" selection-end-line="206" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server_cv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="742">
+          <caret line="62" column="57" selection-start-line="61" selection-start-column="8" selection-end-line="62" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_motion_integration_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="7" column="86" selection-start-line="7" selection-start-column="86" selection-end-line="7" selection-end-column="86" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_on_the_fly_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_foveated_on_the_fly_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="80" column="134" selection-start-line="80" selection-start-column="37" selection-end-line="80" selection-end-column="134" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_foveated_motion_integration_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="86" column="138" selection-start-line="85" selection-start-column="41" selection-end-line="86" selection-end-column="138" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_cv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PVM_PyCUDA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <element signature="e#6767#7997#0" />
+            <element signature="e#8023#8111#0" />
+            <element signature="e#8160#8252#0" />
+            <element signature="e#8308#8940#0" />
+            <element signature="e#8987#15055#0" />
+            <element signature="e#21713#26061#0" />
+            <element signature="e#47089#48982#0" />
+            <element signature="e#49044#50384#0" />
+            <element signature="e#50518#58263#0" />
+            <element signature="e#58294#82074#0" />
+            <element signature="e#58294#62629#1" />
+            <element signature="e#62768#70428#0" />
+            <element signature="e#70466#72474#0" />
+            <element signature="e#72521#72712#0" />
+            <element signature="e#72819#73164#0" />
+            <element signature="e#73356#75824#0" />
+            <element signature="e#76072#80309#0" />
+            <element signature="e#80360#80892#0" />
+            <element signature="e#80943#81944#0" />
+            <element signature="e#82110#106121#0" />
+            <element signature="e#54694#55104#0" />
+            <element signature="e#85666#86267#0" />
+            <element signature="e#86337#88220#0" />
+            <element signature="e#88327#88945#0" />
+            <element signature="e#89212#93604#0" />
+            <element signature="e#94172#95949#0" />
+            <element signature="e#96030#97941#0" />
+            <element signature="e#108195#131959#0" />
+            <element signature="e#108408#111557#0" />
+            <element signature="e#111594#112313#0" />
+            <element signature="e#112360#113824#0" />
+            <element signature="e#113941#123566#0" />
+            <element signature="e#123743#126050#0" />
+            <element signature="e#126126#126734#0" />
+            <element signature="e#126911#129778#0" />
+            <element signature="e#129829#130601#0" />
+            <element signature="e#130652#131959#0" />
+            <element signature="e#132004#144097#0" />
+            <element signature="e#132333#135506#0" />
+            <element signature="e#135561#135804#0" />
+            <element signature="e#138210#139166#0" />
+            <element signature="e#139231#141552#0" />
+            <element signature="e#144174#150029#0" />
+            <element signature="e#146671#147158#0" />
+            <element signature="e#150075#162243#0" />
+            <element signature="e#152915#153141#0" />
+            <element signature="e#153201#154279#0" />
+            <element signature="e#160242#162243#0" />
+            <element signature="e#162291#189019#0" />
+            <element signature="e#162505#163617#0" />
+            <element signature="e#173104#173703#0" />
+            <element signature="e#173758#174802#0" />
+            <element signature="e#174853#176013#0" />
+            <element signature="e#176205#178737#0" />
+            <element signature="e#189076#210925#0" />
+            <element signature="e#189275#189898#0" />
+            <element signature="e#189962#191511#0" />
+            <element signature="e#191635#192122#0" />
+            <element signature="e#192314#194911#0" />
+            <element signature="e#195163#200009#0" />
+            <element signature="e#200090#202345#0" />
+            <element signature="e#202394#204959#0" />
+            <element signature="e#205359#210925#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
