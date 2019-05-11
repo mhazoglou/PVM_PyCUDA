@@ -16,3 +16,8 @@
 nvprofile.py
 AnimatingImages.ipynb
 ModifiedAutoencoder.ipynb
+.idea
+.ipynb_checkpoints
+.metadata
+__pycache__
+
