@@ -2414,6 +2414,7 @@ class PhantomXTurretPVM(OnTheFlyPVM):
             cv2.destroyAllWindows()
             ser.write('512,512,'.encode())
             self.pan, self.tilt = 512, 512
+            ser.readline()
 
 
 class TransformMotionIntegrationPhantomXTurretPVM(PhantomXTurretPVM):

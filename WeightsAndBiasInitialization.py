@@ -46,19 +46,21 @@ def weight_initialize(connect_dict):
     The second element being the values of the respective weights (CSR format)
     The third element being the biases
 
-    :return : A tuple containing the mapping arrays.
-    The zeroth element being the pointer array for a CSR format of the
-    weights
-    The first element being the indices of the columns in an array (CSR
-    format)
-    The second element being the values of the respective weights (CSR format)
-    The third element being the biases
+    :return : A tuple containing the mapping arrays for the input, derivative,
+    integral, error, hidden, appending the hidden (to calculate derivatives,
+    errors and integral as some hidden values are integrals), output, and prediction
+
     :return input_new_unit: list containing the index of first element of input
     for each unit (it's is length N + 1, N being the number of PVM units ends 
     with the total length of the input)
+
     :return op_new_unit: list containing the index of first element of the 
     output and prediction for each unit (it's is length N + 1, N being the 
     number of PVM units ends with the total length of the output & prediction)
+
+    :return hid_new_unit: list containing the index of first element of the
+    hidden for each unit (it's is length N + 1, N being the
+    number of PVM units ends with the total length of the hidden values)
     """
 
     # lists with mappings for memory shuffling
@@ -262,6 +264,10 @@ def tracker_weight_initialize(structure,
 
     :return tracker_bias: A numpy array of the biases associated with the
     biases of the tracker.
+
+    :return tracker_new_layer: A list which contains the elements of where a
+    layers tracker values begin (it should have a length that is one more than
+    the number of layers)
     """
     N_layers = len(structure)
 

@@ -61,7 +61,12 @@ def flatten_image(img_arr, input_shape):
 
 def unflatten_image(flat_arr, image_shape, input_shape):
     """
-    A helper function that reverses the action of flatten_image.
+    A helper function that reverses the action of flatten_image. This is
+    technically obsolete as the application of NumPy's sort should do the same
+    thing but better if you apply it to the flattened map it will return the
+    reverse map of the tiling which you can just pass to a NumPy array as index to
+    change the shape back to normal.
+
     :param flat_arr: The flattened representation of the original array
     in img_arr.
     :param image_shape: The shape of the original image as a tuple in the form
@@ -640,7 +645,7 @@ def fractal_unflatten_image(flat_arr, image_shape, first_rec=True, corner=""):
 
 def hdf5_raw_data(datapath, filename, new_size, img_dir='img'):
     """
-    Reads data in the with the directory structure:
+    Reads data with the directory structure:
     datapath
         |
         |---name_of_dataset_directory1
@@ -671,7 +676,10 @@ def hdf5_raw_data(datapath, filename, new_size, img_dir='img'):
         .
 
     in each folder with the image data needs to be ordered in time with the
-    earliest at the top and latest at the bottom
+    earliest at the top and latest at the bottom and will product and hdf5
+    file with data in a similar hierarchy. The images will be placed in
+    arrays that are 4 dimensional (if color) with the first index being the
+    time index.
 
     :param datapath: A string with the name of a directory containing the
     data.
@@ -706,7 +714,7 @@ def hdf5_raw_data(datapath, filename, new_size, img_dir='img'):
 
 def hdf5_append_position_data(datapath, filename, new_size, img_dir='img'):
     """
-    Reads data in the with the directory structure:
+    Reads data in, with the directory structure:
     datapath
         |
         |---name_of_dataset_directory1
@@ -739,7 +747,8 @@ def hdf5_append_position_data(datapath, filename, new_size, img_dir='img'):
         .
 
     in each folder with the image data needs to be ordered in time with the
-    earliest at the top and latest at the bottom
+    earliest at the top and latest at the bottom. It will produce an hdf5 file
+    with similar structure.
 
     :param datapath: A string with the name of a directory containing the
     data.
